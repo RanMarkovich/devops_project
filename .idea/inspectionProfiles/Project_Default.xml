@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Tests.helpers.mysql_helper.mysql_helper.DBConf" />
+          <option value="Tests.services.production_tests.version_pins.test_version_pins.app_versions_s3_publishers_and_mediation_ids" />
+          <option value="AnomalyDetectionEngine.TestAutomation.helpers.mock_service.mock_service.pool" />
+          <option value="Tests.services.utils.users.change_password.MySQL" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
