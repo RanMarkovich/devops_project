@@ -1,7 +1,8 @@
 sources: 
 1. https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-build
 2. https://developer.hashicorp.com/terraform/tutorials/cloud-get-started/cloud-login
-
+3. Terraform cloud url:
+   * https://app.terraform.io/app/ranlearndevops/workspaces?project=prj-wX7Q9Ejfw87N3suS
 
 prerequisites:
 * terraform cli
@@ -16,3 +17,4 @@ commands:
 6. `terraform login` > login to tfc (terraform cloud)
 
 IMPORTANT! store your state file securely and restrict access to only trusted team members who need to manage your infrastructure
+
